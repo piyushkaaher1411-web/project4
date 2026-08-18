@@ -1,0 +1,28 @@
+.a{
+    background-color:cadetblue;
+    gap: 70px;
+    padding: 10px;
+    display: flex;
+}
+.b{
+    margin-left: 250px;
+    margin-top: 150px;
+}
+.b button{
+    margin-left: 100px;
+    color: aliceblue;
+    background-color: blue;
+}
+.c{
+    background-color:burlywood;
+    height: 100vh;
+}
+.c button{
+    margin-left: 600px;
+     color: aliceblue;
+    background-color:red;
+}
+.cc{
+   margin-left: 300px;
+    margin-top: 150px;
+}
